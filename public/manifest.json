@@ -1,22 +1,23 @@
 {
   "name": "CleanFrame AI",
   "short_name": "CleanFrame",
+  "description": "Remove watermarks and objects from images and videos",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "https://via.placeholder.com/192x192/209CEE/FFFFFF?text=CF",
+      "src": "https://via.placeholder.com/192x192/209CEE/FFFFFF.png?text=CF",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "https://via.placeholder.com/512x512/209CEE/FFFFFF?text=CF",
+      "src": "https://via.placeholder.com/512x512/209CEE/FFFFFF.png?text=CF",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
